@@ -29,7 +29,7 @@
 
   <h3>Blogs</h3>
 
-  <a href="https://velog.io/@sungho"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  <a href="https://blog.naver.com/ksh_1035"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
+  <a href="https://velog.io/@sungho" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  <a href="https://blog.naver.com/ksh_1035" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
 
   <hr/>
 
